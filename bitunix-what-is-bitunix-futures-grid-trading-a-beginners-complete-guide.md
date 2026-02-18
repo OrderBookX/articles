@@ -2,7 +2,7 @@
 
 If you are new to automated trading, a futures grid bot is one of the most accessible starting points. On Bitunix, the setup is straightforward and the tools are built for first-time grid operators.
 
-### The Simple Concept
+## The Simple Concept
 
 Imagine price bouncing between $90,000 and $100,000. A grid bot places buy orders at $91K, $92K, $93K and sell orders at $94K, $95K, $96K. Every time price completes a round trip between any two levels, the bot earns a small profit. Multiply this across 20 or 30 levels, running 24/7, and the small gains accumulate.
 

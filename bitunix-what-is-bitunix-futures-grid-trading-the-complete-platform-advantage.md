@@ -2,7 +2,7 @@
 
 Every exchange can list futures pairs. Few build native tools specifically designed for automated grid strategies and back them with institutional-grade infrastructure. Bitunix does both, and the difference shows in every metric that matters to grid operators.
 
-### Native Grid Tool — Zero External Dependencies
+## Native Grid Tool — Zero External Dependencies
 
 Many exchanges require third-party bots connected via API — introducing latency, subscription fees, rate limits, and security risk from shared API keys. On Bitunix, the futures grid tool is built into the platform. Orders execute with the same priority and speed as manual trades. No middleware, no extra cost, no additional failure points.
 

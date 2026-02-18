@@ -2,7 +2,7 @@
 
 You are new. You have capital. You want to try grid trading. Here is the exact step-by-step path on Bitunix — from account creation through your first profitable bot, with every decision point explained.
 
-### Week 1: Learn and Observe
+## Week 1: Learn and Observe
 
 Day 1: Create a Bitunix account (email signup, no KYC needed). Navigate to the futures section. Browse pairs. Open TradingView Pro charts. Do not trade yet — just observe. Day 2 to 3: Watch BTC/USDT price action. Identify support and resistance levels. Note how price oscillates between them. Read about ATR and add it to your Bitunix chart. Day 4 to 5: Check the grid bot interface. Understand each input field. Review the TradFi section — see gold, silver, platinum, palladium perpetuals as additional options.
 

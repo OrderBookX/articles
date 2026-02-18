@@ -2,7 +2,7 @@
 
 You have a full-time job. Limited screen time. Grid trading on Bitunix can still work — if you build a routine around your schedule constraints.
 
-### Saturday: 30-Minute Analysis on Bitunix
+## Saturday: 30-Minute Analysis on Bitunix
 
 Open Bitunix TradingView Pro charts. Review the week's price action on BTC/USDT and ETH/USDT. Which pairs consolidated? Where did support and resistance hold? Check the TradFi section — gold and silver sometimes show cleaner ranges than crypto during volatile crypto weeks. Note candidates.
 

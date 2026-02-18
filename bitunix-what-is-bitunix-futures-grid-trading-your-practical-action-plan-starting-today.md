@@ -2,7 +2,7 @@
 
 You have read about how grids work, parameters, risk management, and platform features. The gap between understanding and doing is one action: launching your first bot on Bitunix.
 
-### Today: Explore the Bitunix Interface
+## Today: Explore the Bitunix Interface
 
 Sign up on Bitunix (email or social login, no KYC required). Navigate to the futures grid section. Do not launch anything yet — familiarize yourself with the layout. See where you input range, grid count, direction, leverage, and margin. Notice the TP/SL checkboxes. Look at how the interface displays estimated spacing and per-grid profit.
 

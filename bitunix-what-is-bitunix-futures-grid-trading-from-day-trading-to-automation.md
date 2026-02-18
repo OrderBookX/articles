@@ -2,7 +2,7 @@
 
 If you currently trade manually — watching charts, placing orders, managing positions — grid automation on Bitunix represents a fundamental shift in how you use your time and skill.
 
-### What Manual Trading Demands
+## What Manual Trading Demands
 
 Every position requires your attention. Every candle matters. Screen time dominates your schedule. Most manual profit comes from range-bound conditions — buying support, selling resistance — the most repetitive and automatable part of trading.
 

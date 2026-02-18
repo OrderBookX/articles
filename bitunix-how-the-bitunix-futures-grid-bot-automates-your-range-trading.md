@@ -2,7 +2,7 @@
 
 Manually buying support and selling resistance works — until you sleep, get distracted, or hesitate. A futures grid bot removes those human failure points by executing your range strategy automatically, around the clock.
 
-### What Happens When You Launch a Bitunix Grid Bot
+## What Happens When You Launch a Bitunix Grid Bot
 
 You provide six inputs: trading pair, price range, grid count, direction (long or short), leverage, and margin. Bitunix calculates evenly spaced levels using arithmetic spacing and places limit orders at each one. For a long grid, buy orders sit below current price; sell orders above. As price moves through levels, the bot completes cycles — each one locking in a small, realized gain.
 

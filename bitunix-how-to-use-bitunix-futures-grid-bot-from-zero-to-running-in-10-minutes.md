@@ -2,7 +2,7 @@
 
 One of Bitunix strongest advantages is speed. No KYC required to start trading, no third-party bot subscriptions, no API configuration. You can go from creating an account to running a live futures grid bot in under 10 minutes.
 
-### Step 1: Create Your Bitunix Account (2 Minutes)
+## Step 1: Create Your Bitunix Account (2 Minutes)
 
 Sign up with email or social login — Google, Apple, Facebook all work. No document uploads. No waiting period. You get immediate access to futures trading, grid bots, and all platform tools. Without KYC, your daily withdrawal limit is 500,000 USDT — more than sufficient for most grid traders.
 

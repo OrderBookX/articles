@@ -2,7 +2,7 @@
 
 If you keep hearing about grid bots but find the explanations confusing, here is a plain-language version that starts from zero and uses Bitunix as the practical example.
 
-### The Fruit Stall Analogy
+## The Fruit Stall Analogy
 
 Imagine you sell apples that fluctuate between $1 and $2 daily. You set a rule: buy at $1.20, $1.40, $1.60 and sell at $1.40, $1.60, $1.80. Every completed buy-sell pair earns the difference. You do not need to predict whether apples will cost $3 next month. You just profit from the daily fluctuation.
 

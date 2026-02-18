@@ -2,7 +2,7 @@
 
 A grid bot without take-profit and stop-loss is like driving without brakes. It might work fine for a while — until conditions change suddenly and you have no way to stop.
 
-### How TP Works on Bitunix
+## How TP Works on Bitunix
 
 Take-profit triggers when your grid's cumulative profit reaches a predefined level. The bot closes all positions, cancels pending orders, and returns funds to your spot account. This prevents the common trap of watching profits accumulate then evaporate during a reversal. On Bitunix, TP is a checkbox during grid setup — enter your target and the system handles the rest.
 

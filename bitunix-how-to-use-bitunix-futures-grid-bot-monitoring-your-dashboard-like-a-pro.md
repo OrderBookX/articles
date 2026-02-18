@@ -2,7 +2,7 @@
 
 After launching a grid bot, the Bitunix dashboard becomes your command center. Knowing which numbers to watch, what combinations signal action, and when to intervene separates informed operators from passive spectators.
 
-### The Five Metrics That Matter on Bitunix
+## The Five Metrics That Matter on Bitunix
 
 Grid profit shows realized gains from completed cycles — this only increases while the bot actively trades. Unrealized PnL shows current open position value — it fluctuates in real time. Total PnL is the sum of both — the number that tells you how you are actually doing. Bot status shows active, paused, or stopped. Margin usage shows how much of your allocation is currently deployed — if approaching 100%, liquidation risk rises.
 

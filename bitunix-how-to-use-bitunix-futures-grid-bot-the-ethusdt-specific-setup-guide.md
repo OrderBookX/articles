@@ -2,7 +2,7 @@
 
 ETH behaves differently from BTC. Higher daily volatility, stronger correlation spikes during altcoin seasons, and different funding rate dynamics. Configuring an ETH grid on Bitunix requires pair-specific adjustments.
 
-### ETH Volatility Profile on Bitunix
+## ETH Volatility Profile on Bitunix
 
 ETH/USDT typically moves 3 to 5% daily compared to BTC at 2 to 3%. This means more grid triggers per day (good for activity) but faster range exits (bad for survival). On Bitunix charts, check the 14-day ATR for ETH — it is usually proportionally larger than BTC.
 
